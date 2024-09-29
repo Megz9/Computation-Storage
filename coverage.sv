@@ -36,8 +36,8 @@ package coverage_pkg;
         bins middle[] = {[1 : (2 ** addrSize) - 2]};
       }
       op_C: cross operation_cp, AddressC{
-        bins cross_read = binsof (operation_cp.read);
-        bins cross_write = binsof (operation_cp.write);
+      // bins cross_read = binsof (operation_cp.read);
+      // bins cross_write = binsof (operation_cp.write);
       }
 
 
