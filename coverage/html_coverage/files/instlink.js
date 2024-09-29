@@ -1,0 +1,2 @@
+var g_data = {"20":[19,"comp_if",1],"21":[19,"DUT",1],"19":[-1,"top",1],"24":[-1,"seq_item_pkg",1],"25":[-1,"sequences_pkg",1],"26":[-1,"coverage_pkg",1],"33":[-1,"config_pkg",1],"34":[-1,"scoreboard_pkg",1],"35":[-1,"sequencer_pkg",1],"36":[-1,"monitor_pkg",1],"37":[-1,"driver_pkg",1],"38":[-1,"agent_pkg",1],"39":[-1,"env_pkg",1],"40":[-1,"test_pkg",1]};
+processInstLinks(g_data);

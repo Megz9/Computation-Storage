@@ -1,0 +1,2 @@
+var g_data = {"27":{"cvpc":[{"h":["operation_cp",4,1,28],"cov":[4,4,100.00],"opts":{"goal":"100"}},{"h":["AddressA",4,1,29],"cov":[17,17,100.00],"opts":{"goal":"100"}},{"h":["AddressB",4,1,30],"cov":[16,16,100.00],"opts":{"goal":"100"}},{"h":["AddressC",4,1,31],"cov":[16,16,100.00],"opts":{"goal":"100"}},{"h":["op_C",8,1,32],"cov":[34,34,100.00],"opts":{"goal":"100"},"cvps":["operation_cp","AddressC"]}],"cvg":["/coverage_pkg/coverage/g1",1],"cvgdata":[53,53,34,34]}};
+processCoverpointsData(g_data);
